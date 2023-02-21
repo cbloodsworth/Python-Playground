@@ -1,1 +1,2 @@
-# Python-Playground\n Python scripts made by myself for fun or general use.
+# Python-Playground
+Python scripts made by myself for fun or general use.
